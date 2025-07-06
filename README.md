@@ -1,2 +1,2 @@
 # notas-atletas
-Somente um pequeno exercício.
+Este é somente um pequeno projeto de certifcação. Em suma, criei um programa que recebe o nome e as notas alguns atletas fictícios, calcula as médias de cada um e apresenta ao usuário pelo console. Há uma lista contendo as informações de cada atleeta e uma função que realiza todos os cálculos e mostra as médias. Use o seu editor de código de preferência para checar os resultados.
